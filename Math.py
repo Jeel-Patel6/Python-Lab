@@ -1,0 +1,10 @@
+import math
+x = float(input("Enter your number: "))
+print(f"Data type of {x} is {type(x)}")
+print(f"Memory Address is {hex(id(x))}")
+print(f"Square value : {x**2}")
+print(f"Cube value : {x**3}")
+print(f"Ceiling value: {math.ceil(x)}")
+print(f"Floor value: {math.floor(x)}")
+print(f"Square root value: {math.sqrt(x)}")
+print(f"Absolute value: {abs(x)}")
