@@ -10,3 +10,7 @@ Lab 2:
     number_guess,
     otp,
     prime
+
+Lab 3:
+    Frequency counter
+    Contact Book
