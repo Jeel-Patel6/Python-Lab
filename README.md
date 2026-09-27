@@ -12,5 +12,5 @@ Lab 2:
     prime
 
 Lab 3:
-    Frequency counter
+    Frequency counter,
     Contact Book
