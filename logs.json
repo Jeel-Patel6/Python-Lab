@@ -1,0 +1,22 @@
+[
+    {
+        "Timestamp": "2026-11-15 10:00:00",
+        "Log Level": "INFO",
+        "Message": "Application started"
+    },
+    {
+        "Timestamp": "2026-11-15 10:05:00",
+        "Log Level": "WARNING",
+        "Message": "Low disk space"
+    },
+    {
+        "Timestamp": "2026-11-15 10:10:00",
+        "Log Level": "ERROR",
+        "Message": "Database connection failed"
+    },
+    {
+        "Timestamp": "2026-11-15 10:15:00",
+        "Log Level": "INFO",
+        "Message": "User logged in"
+    }
+]
