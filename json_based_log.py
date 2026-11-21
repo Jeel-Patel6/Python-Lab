@@ -42,6 +42,4 @@ def analyze(data):
     print("Total WARNING messages:", warning)
     print("Total ERROR messages:", error)
 
-
-# Main Program
 display()

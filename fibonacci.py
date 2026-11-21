@@ -1,6 +1,12 @@
-n = int(input("Enter the number of terms: "))
-a,b = 0,1
+def fibonacci(n):
+    if n <= 1:
+        return n
+    else:
+        return fibonacci(n - 1) + fibonacci(n - 2)
 
+
+n = int(input("Enter the number of terms: "))
+
+print("Fibonacci Series:")
 for i in range(n):
-    print(a, end = " ")
-    a,b = b,a+b
+    print(fibonacci(i), end=" ")
