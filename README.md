@@ -2,8 +2,8 @@
 
 ## Module 1
 - `basic`
-- `simple_calculator`
-- `calculator_built_in`
+- `variables`
+- `calculator`
 - `electricity_bill`
 
 ## Module 2
